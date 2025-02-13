@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ENGG1420_quiz2">
+    <output-path>$PROJECT_DIR$/out/artifacts/ENGG1420_quiz2</output-path>
+    <root id="archive" name="ENGG1420_quiz2.jar" />
+  </artifact>
+</component>
